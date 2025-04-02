@@ -1,0 +1,48 @@
+p {
+    font-family: 'roboto', serif;
+  }
+  
+header {
+    background-color: Crimson;
+    color: white;
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 30px;
+    padding: 10px;
+}
+#pierwszy-blok-glowny {
+    background-color: MistyRose;
+    height: 300px;
+    padding: 10px;
+    margin: 10px 50px;
+    border: 1px solid Crimson;
+}
+#pierwszy-blok-glowny img {
+    float: left;
+    height: 100%; }
+    #blokizofertamiktorychniema {
+        background-color: Snow;
+        height: 450px;
+        width: 21%;
+        margin: 1%;
+        text-align: center;
+        border: 1px solid Crimson;
+        
+    }  
+    #stopka {
+        background-color: crimson;
+        color: white;
+    }
+    img {
+        max-width: 100%;
+    }
+    h4 {
+        font-size: 180%;
+        text-align: center;
+        color: Crimson;
+    }
+    
+    a {
+        color: white;
+        text-decoration: none;
+    }
