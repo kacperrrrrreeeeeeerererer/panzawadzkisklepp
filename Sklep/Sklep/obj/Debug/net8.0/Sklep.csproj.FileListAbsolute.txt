@@ -1,0 +1,14 @@
+C:\Users\Komputer\source\repos\Sklep\Sklep\bin\Debug\net8.0\Sklep.exe
+C:\Users\Komputer\source\repos\Sklep\Sklep\bin\Debug\net8.0\Sklep.deps.json
+C:\Users\Komputer\source\repos\Sklep\Sklep\bin\Debug\net8.0\Sklep.runtimeconfig.json
+C:\Users\Komputer\source\repos\Sklep\Sklep\bin\Debug\net8.0\Sklep.dll
+C:\Users\Komputer\source\repos\Sklep\Sklep\bin\Debug\net8.0\Sklep.pdb
+C:\Users\Komputer\source\repos\Sklep\Sklep\obj\Debug\net8.0\Sklep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\source\repos\Sklep\Sklep\obj\Debug\net8.0\Sklep.AssemblyInfoInputs.cache
+C:\Users\Komputer\source\repos\Sklep\Sklep\obj\Debug\net8.0\Sklep.AssemblyInfo.cs
+C:\Users\Komputer\source\repos\Sklep\Sklep\obj\Debug\net8.0\Sklep.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\Sklep\Sklep\obj\Debug\net8.0\Sklep.dll
+C:\Users\Komputer\source\repos\Sklep\Sklep\obj\Debug\net8.0\refint\Sklep.dll
+C:\Users\Komputer\source\repos\Sklep\Sklep\obj\Debug\net8.0\Sklep.pdb
+C:\Users\Komputer\source\repos\Sklep\Sklep\obj\Debug\net8.0\Sklep.genruntimeconfig.cache
+C:\Users\Komputer\source\repos\Sklep\Sklep\obj\Debug\net8.0\ref\Sklep.dll
